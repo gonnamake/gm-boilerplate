@@ -1,0 +1,28 @@
+{
+  "name": "gm-boilerplate",
+  "version": "0.0.1",
+  "authors": [
+    "Ray Ch <i@iraycd.com>"
+  ],
+  "description": "Gonnamake boilerplate",
+  "main": "dist/gm-boilerplate.html",
+  "keywords": [
+    "polymer",
+    "web-components",
+    "gm-boilerplate",
+    "boilerplate",
+    "gonnamake"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#>=0.3.0 <1.0.0"
+  },
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
